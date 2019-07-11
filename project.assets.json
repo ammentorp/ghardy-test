@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": []
+  },
+  "packageFolders": {
+    "/Users/chelseameier/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/chelseameier/dotnet-framework-docker/tests/Microsoft.DotNet.Framework.Docker.Tests/projects/dotnetapp-4.7.2/dotnetapp-4.7.2.csproj",
+      "projectName": "dotnetapp-4.7.2",
+      "projectPath": "/Users/chelseameier/dotnet-framework-docker/tests/Microsoft.DotNet.Framework.Docker.Tests/projects/dotnetapp-4.7.2/dotnetapp-4.7.2.csproj",
+      "packagesPath": "/Users/chelseameier/.nuget/packages/",
+      "outputPath": "/Users/chelseameier/dotnet-framework-docker/tests/Microsoft.DotNet.Framework.Docker.Tests/projects/dotnetapp-4.7.2/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/chelseameier/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {}
+    }
+  }
+}

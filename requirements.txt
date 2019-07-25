@@ -7,15 +7,12 @@ botocore==1.12.177
 certifi==2019.3.9
 cffi==1.12.3
 chardet==3.0.4
-Click==7.0
 coverage==4.5.3
 cryptography==2.7
+defusedxml==0.6.0
 docutils==0.14
-Flask==1.0.3
 idna==2.8
 importlib-metadata==0.18
-itsdangerous==1.1.0
-Jinja2==2.10.1
 jmespath==0.9.4
 MarkupSafe==1.1.1
 mock==2.0.0
@@ -36,5 +33,4 @@ responses==0.10.6
 s3transfer==0.2.1
 six==1.12.0
 wcwidth==0.1.7
-Werkzeug==0.15.4
 zipp==0.5.1

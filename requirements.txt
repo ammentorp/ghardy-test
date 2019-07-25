@@ -10,6 +10,7 @@ chardet==3.0.4
 coverage==4.5.3
 cryptography==2.7
 defusedxml==0.6.0
+django==1.6.7
 docutils==0.14
 idna==2.8
 importlib-metadata==0.18
